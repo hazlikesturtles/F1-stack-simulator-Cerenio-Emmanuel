@@ -1,7 +1,9 @@
 # F1-stack-simulator-Cerenio-Emmanuel
 
 Name: Emmanuel A. Cerenio
+
 Section: DA 2-1
+
 ORIGINAL REPOSITORY LINK: https://github.com/Jackson-Soriano/e26_temp.git
 
 Description:
